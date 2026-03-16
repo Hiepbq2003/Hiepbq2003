@@ -1,10 +1,10 @@
 # Hi there, I'm HiepBQ (Hiepbq2003) 👋
 
 ### 👨‍💻 About Me
-- 🚀 I'm a **Backend Developer** focused on building scalable **Microservices Architectures** and high-performance systems.
+- 🚀 I'm a **Backend Developer** focused on building scalable **Microservices Architectures**.
 - 🛠 Currently diving deep into the **Spring Ecosystem** and **ReactJS** for modern full-stack development.
-- 🏛 Expert in applying **OOP**, **SOLID** principles, and **Design Patterns** to write clean, maintainable code.
-- 🔐 Specialized in securing applications with **OAuth2** and **JWT**.
+- 💡 **Practicing** OOP, SOLID principles, and common Design Patterns to write cleaner code.
+- 🔐 **Familiar with** securing applications using **JWT** and **OAuth2**.
 - 📫 Reach me at: [hanh.hiep.777@gmail.com](mailto:hanh.hiep.777@gmail.com)
 
 ---
