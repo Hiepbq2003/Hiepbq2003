@@ -41,14 +41,6 @@
   <img src="https://img.shields.io/badge/Agile-Scrum-00897B?style=for-the-badge&logo=scrum-alliance&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiepbq2003&show_icons=true&theme=radical&count_private=true" alt="HiepBQ's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiepbq2003&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
