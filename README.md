@@ -1,9 +1,9 @@
 # Hi there, I'm HiepBQ (Hiepbq2003) 👋
 
 ### 👨‍💻 About Me
-- 🚀 I'm a **Backend Developer** focused on building scalable **Microservices Architectures**.
-- 🛠 Currently diving deep into the **Spring Ecosystem** and **ReactJS** for modern full-stack development.
-- 💡 **Practicing** OOP, SOLID principles, and common Design Patterns to write cleaner code.
+- 🚀 I'm an **Aspiring Backend Developer** with a strong interest in building scalable **Microservices Architectures**.
+- 🛠 Currently focusing on the **Spring Ecosystem** and **ReactJS** for modern full-stack development.
+- 💡 **Practicing** OOP, SOLID principles, and common Design Patterns to write clean, maintainable code.
 - 🔐 **Familiar with** securing applications using **JWT** and **OAuth2**.
 - 📫 Reach me at: [hanh.hiep.777@gmail.com](mailto:hanh.hiep.777@gmail.com)
 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 #### 💾 Databases & Caching
@@ -36,11 +37,11 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-#### 📐 Architecture, Patterns & Methodologies
+#### 📐 Architecture, Tools & Methodologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=micro-metadata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-grey?style=for-the-badge&logo=micro-metadata&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_API-0052CC?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-black?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile/Scrum-00897B?style=for-the-badge&logo=scrum-alliance&logoColor=white" />
 </p>
