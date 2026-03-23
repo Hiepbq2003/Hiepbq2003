@@ -46,10 +46,4 @@
   <img src="https://img.shields.io/badge/Agile/Scrum-00897B?style=for-the-badge&logo=scrum-alliance&logoColor=white" />
 </p>
 
----
 
-
-### 🏆 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiepbq2003&theme=radical" alt="HiepBQ's Streak" />
-</p>
